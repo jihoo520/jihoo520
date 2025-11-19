@@ -9,9 +9,9 @@
 ---
 
 # 🎨 포트폴리오 웹사이트
-👉 **[사이트 바로가기](https://guensoo.github.io)**
+👉 **[사이트 바로가기](https://jihoo520.github.io/portfolio)**
 
-🔗 **[코드 보러 가기](https://github.com/guensoo/guensoo.github.io)**
+🔗 **[코드 보러 가기](https://github.com/jihoo/portfolio)**
 
 ## 활용 기술
 <img src="img/html.svg.png" height="48px"> <img src="img/css.svg.png" height="48px"> <img src="img/JavaScript.png" height="40px"> <img src="img/logo512.png" height="40px">
